@@ -5,9 +5,6 @@
 .DESCRIPTION
     This script performs a variety of checks on a local machine and an Active Directory
     environment to gather information for penetration testing purposes.
-
-.AUTHOR
-    Jules
 #>
 
 param(
